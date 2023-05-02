@@ -10,7 +10,7 @@ app.use(express.json());
 app.use(cors());
 app.use(express.static(path.join(__dirname,'./build')));
 
-mongoose.connect("mongodb+srv://nitheeshtangellapally4:nitheesh0412@cluster0.65tw5p4.mongodb.net/?retryWrites=true&w=majority", {
+mongoose.connect("mongodb+srv://nitheeshtangellapally4:<password>@cluster0.65tw5p4.mongodb.net/?retryWrites=true&w=majority", {
   useNewUrlParser: true,
   useUnifiedTopology: true
 }).then(() => console.log("connected to db")).catch(console.error);
