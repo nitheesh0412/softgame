@@ -1,4 +1,12 @@
 ## this is a full stack web application
+https://moonlit-alfajores-c692a0.netlify.app
+backend is not working in netlify, so here are some sample images of admin dashboard
+<img width="909" alt="image" src="https://user-images.githubusercontent.com/98249834/235753529-f3d3d4db-31f7-4950-8479-ef794ca57be0.png">
+<img width="911" alt="image" src="https://user-images.githubusercontent.com/98249834/235753640-c0e26708-5274-4ffb-800f-a511b5a8a725.png">
+<img width="959" alt="image" src="https://user-images.githubusercontent.com/98249834/235753855-db64c692-7a9a-4a80-aaf1-598efeb040ca.png">
+
+<img width="582" alt="image" src="https://user-images.githubusercontent.com/98249834/235753731-16a314d3-0c57-43f0-b76e-3ce41323ff29.png">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
